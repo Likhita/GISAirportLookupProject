@@ -1,0 +1,23 @@
+<b>McClellan-Palomar Airport</b> <br>
+ 
+<b>Location :</b> San Diego, California, USA<br>
+<b>Airport type: </b> Public<br>
+<b>Owner/Operator:</b> County of San Diego<br>
+<b>Serves:</b> North San Diego County<br>
+<b>Location:</b> North Harbor Drive,San Diego, California<br>
+<b>Focus city for:</b> Southwest Airlines<br>
+<b>Elevation :</b> AMSL 331 ft / 101 m<br>
+<b>Coordinates :</b> 33deg 07mins 42s N, 117deg 16mins 48s W<br>
+<b>Website:</b> <a href="www.sdcounty.ca.gov">www.sdcounty.ca.gov</a><br>
+
+(IATA: CLD, ICAO: KCRQ, FAA LID: CRQ) 
+
+<p>It is a public airport three miles (5 km) southeast of Carlsbad in San Diego County, California. It is owned by the County of San Diego. The airport is used for general aviation and United Express has the only scheduled flights. In March 2013 the airport was the fourth-busiest single runway airport in the United States.</p>
+
+<p>Most U.S. airports use the same three-letter location identifier for the FAA and IATA, but McClellan–Palomar Airport is CRQ to the FAA and CLD to the IATA. The ICAO identifier is KCRQ.The airport is named for Gerald McClellan, an aviator and civic leader in San Diego's North County area.</p>
+
+<b>Facilities and aircraft:</b>
+
+<p>McClellan–Palomar Airport covers 466 acres (189 ha) and has one asphalt runway, 6/24, 4,897 ft × 150 ft (1,493 m × 46 m).In 2008 the airport had 192,960 aircraft operations, an average of 529 per day: 89% general aviation, 7% air taxi, 3% scheduled commercial and 1% military. 325 aircraft are based at this airport: 61% single-engine, 24% jet, 11% multi-engine and 4% helicopter.It opened a $24 million airline terminal on January 29, 2009. As of October 26, 2010 Palomar Airport's long term parking rates (30 day max) increased to $5 a day (from $3 per day).</p>
+
+<p>The airport is planned to be the main hub for California Pacific Airlines, which intends to begin flights on six routes from the airport. The planned destinations are Sacramento, California; San Jose, California; Oakland, California; Las Vegas, Nevada; Phoenix, Arizona; and Cabo San Lucas using 70-seat Embraer 170 aircraft.Previous airline service to the airport includes American Eagle to Los Angeles and America West Express (later US Airways Express) to Phoenix</p>
